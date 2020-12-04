@@ -1,10 +1,8 @@
-# To-do List - React/Redux
+# Tic-Tac-Toe - React
 
-This application will allow you to add/view tasks with different statuses - complete and incomplete.Also user can Change the status of the task.
+This application will allow you to play tic-tac-toe game with human as well as with Computer which is implemented by using Min-Max algorithm of AI.
 
-This application utilises - React, Redux, Jest & Enzyme Testing, Bootstrap and Material UI.
-
-Click on [Demo](https://saurabhgaur01.github.io/getir-to-do-list/) for quick view.
+Click on [Demo](https://saurabhgaur01.github.io/Tic-Tac-Toe/) for quick view.
 ## Installation & Usage
 
 Use the package manager [Node and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) to run this project on your local. After installing, run below command to install all dependencies-
@@ -24,16 +22,8 @@ This command will run your server on your localhost. You can access then on your
 http://localhost:3000/
 ```
 
-To run test suit, you need to run -
-
-```bash
-npm test
-```
-This will test entire application including components, ducks, thunks, utils functions used throughout using _Jest and Enzyme_ library. Snapshots already available under _test_ folder.
-
-
 ## Contributing
-1. Fork it ( https://github.com/SaurabhGaur01/getir-to-do-list/fork )
+1. Fork it ( https://github.com/SaurabhGaur01/Tic-Tac-Toe/fork )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
